@@ -1,5 +1,4 @@
 
-# 560. Subarray Sum Equals K
 
 # Leetcode 560: https://leetcode.com/problems/subarray-sum-equals-k/
 # Pattern: Prefix Sum 

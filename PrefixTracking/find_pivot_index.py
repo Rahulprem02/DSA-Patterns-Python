@@ -1,5 +1,5 @@
 
-# Leetcode 724: https://leetcode.com/problems/find-pivot-index/
+# Leetcode 724: https://leetcode.com/problems/find-pivot-index /
 # Pattern: Prefix Sum 
 
 

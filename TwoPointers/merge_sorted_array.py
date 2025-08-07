@@ -12,7 +12,7 @@ class Solution:
         for i in range(len(nums1)):
             if nums1[i] == 0 and j < len(nums2):
                 nums1[i] = nums2[j]
-                j += 1
+                j += 1 
        
         nums1 = nums1.sort()
         

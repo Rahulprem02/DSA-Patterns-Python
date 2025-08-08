@@ -28,7 +28,7 @@ class Solution:
         # Space Complexity: O(1)
     
 
-#  Brute Force Approach 
+#  Brute Force Approach
 
     
 #class Solution:

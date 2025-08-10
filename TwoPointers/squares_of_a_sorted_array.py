@@ -1,6 +1,6 @@
 
 # Leetcode 977: https://leetcode.com/problems/squares-of-a-sorted-array/
-# Pattern: Two Pointer Appproch
+# Pattern: Two Pointer Appproch 
 
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:

@@ -1,5 +1,5 @@
 
-# Leetcode 594 : https://leetcode.com/problems/longest-harmonious-subsequence/
+# Leetcode 594 :  https://leetcode.com/problems/longest-harmonious-subsequence/
 # Pattern: Sliding Window 
 
 from collections import Counter
